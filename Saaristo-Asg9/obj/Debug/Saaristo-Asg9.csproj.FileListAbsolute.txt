@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\Saaristo-Asg9\bin\Debug\Saaristo-Asg9.exe.config
+C:\Users\brian\source\repos\Saaristo-Asg9\bin\Debug\Saaristo-Asg9.exe
+C:\Users\brian\source\repos\Saaristo-Asg9\bin\Debug\Saaristo-Asg9.pdb
+C:\Users\brian\source\repos\Saaristo-Asg9\obj\Debug\Saaristo-Asg9.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\Saaristo-Asg9\obj\Debug\Saaristo-Asg9.csproj.SuggestedBindingRedirects.cache
+C:\Users\brian\source\repos\Saaristo-Asg9\obj\Debug\Saaristo_Asg9.FormAsg9.resources
+C:\Users\brian\source\repos\Saaristo-Asg9\obj\Debug\Saaristo_Asg9.Properties.Resources.resources
+C:\Users\brian\source\repos\Saaristo-Asg9\obj\Debug\Saaristo-Asg9.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\Saaristo-Asg9\obj\Debug\Saaristo-Asg9.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\Saaristo-Asg9\obj\Debug\Saaristo-Asg9.exe
+C:\Users\brian\source\repos\Saaristo-Asg9\obj\Debug\Saaristo-Asg9.pdb
